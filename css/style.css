@@ -1,0 +1,87 @@
+.nom{color: white;background-color: orange;
+		height: 90px;
+		text-align: center;
+       font-family:   ;}
+.profil{border: 2px solid orange;
+		height: px;
+		margin-top: 20px;
+		padding: 10px;}
+.experience{border: 2px solid orange;
+margin-top: 20px;
+height: 500px;
+padding-right: 20px; }
+
+.competences{border: 2px solid orange;
+margin-top: 20px;
+padding-left: 10px;
+padding-right: 20px;}
+.image{
+	width: 360px;
+	height: auto;
+}
+
+		
+.contact{}
+
+.trait{margin-left: 5px;
+			margin-right: -15px;
+border: 1px solid black;}
+
+.trait2{border: 1px solid black;
+		margin-left: 2px;
+		margin-right: 310px;
+			margin-top: -17px;}
+
+
+.trait3{border: 1px solid black;
+margin-left: 5px;
+		margin-right: -15px;}
+
+.trait4{border: 1px solid black;
+	margin-top: -17px;
+	margin-right: 310px;
+			
+}
+
+.section1{ width: 600px; 
+		   margin-left: 475px;
+
+		  margin-bottom: -300px;} 
+.tableau1{}
+
+.img{width: 350px;}
+
+.section2{background-color: orange;width: 340px;
+margin-bottom:-100px;
+margin-top: -1050px;
+padding-left: -40px;
+padding-right: 15px;
+margin-right: -25px;
+margin-left: 20PX;}
+
+.blanc{  }
+
+.section4{height: 30px;
+	width: 355px;
+	margin-left: -15px;
+	margin-right: -15px;
+	background-color: orange;
+	border-bottom-left-radius: 40px;
+	margin-top: 1030px;
+	margin-left: 20px;
+	
+	}
+
+
+
+.section3{border:2px solid orange ;
+			margin-left: 1100px;
+			margin-right: 1900px;
+			margin-top: -1091px;
+			
+			padding-left: 10px;
+			background-color: orange;
+			height: 87px;
+			margin-bottom: 150px;
+			width: 10px;
+			}
